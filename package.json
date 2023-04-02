@@ -1,0 +1,20 @@
+{
+  "name": "shared-payroll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cybrd/shared-payroll.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cybrd/shared-payroll/issues"
+  },
+  "homepage": "https://github.com/cybrd/shared-payroll#readme"
+}
